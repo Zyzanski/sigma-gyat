@@ -1,0 +1,8 @@
+def WartoscBezwgledna(x):
+if x < 0:
+return -x
+else:
+return x
+ 
+x = int(input("Wprowadź liczbę: "))
+print("Wartość bezwględna z liczby x wynosi ", WartoscBezwgledna(x))
