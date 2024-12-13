@@ -1,0 +1,8 @@
+
+tablica = [1, 2, 3, 1, 1, 4, 5, 6, 7, 1]
+
+
+liczba_wystapien = tablica.count(1)
+
+
+print(f'Liczba 1 występuje {liczba_wystapien} razy.')
